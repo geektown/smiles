@@ -1,0 +1,292 @@
+﻿<!doctype html>
+<html>
+
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+
+<!-- BEGIN HEAD -->
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>储蓄人生@smilelife</title>
+    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+	<!-- <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile.structure-1.2.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script> -->
+	
+	<!-- <link rel="stylesheet" href="jquery/jquery.mobile.structure-1.2.1.min.css" />
+	<script src="jquery/jquery-1.8.2.min.js"></script>
+	<script src="jquery/jquery.mobile-1.2.1.min.js"></script> -->
+	<link rel="stylesheet" href="jquery/jquery.mobile-1.4.0.min.css" />
+	<script src="jquery/jquery-1.10.2.min.js"></script>
+	<script src="jquery/jquery.mobile-1.4.0.min.js"></script>
+	
+	
+	
+	<script src="CalcTime.js"></script>
+		
+	<link rel="stylesheet" href="themes/Bootstrap.css">
+	
+	<link href="metronic.bootstrap.media/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/style-metro.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/style.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/style-responsive.css" rel="stylesheet" type="text/css"/>
+
+	<link href="metronic.bootstrap.media/css/default.css" rel="stylesheet" type="text/css" id="style_color"/>
+
+	<link href="metronic.bootstrap.media/css/uniform.default.css" rel="stylesheet" type="text/css"/>
+
+	<!-- END GLOBAL MANDATORY STYLES -->
+
+	<link rel="shortcut icon" href="metronic.bootstrap.media/image/favicon.ico" />
+	
+
+	<link rel="stylesheet" type="text/css" href="css/vtimeline-default.css" />
+	<link rel="stylesheet" type="text/css" href="css/vtimeline-component.css" />
+	<script src="js/modernizr.custom.js"></script>
+
+	<script src="js/jquery.raty.min.js"></script>
+	<script src="myRating.js"></script>
+	
+	</head>
+	<body>
+		<div data-role="page" data-theme="a">
+			<div data-role="header" data-position="inline">
+				<!-- <h1 id="remainingTime">正在计算剩余时间...</h1> -->
+				<div data-role="navbar">
+					<ul>
+						<li><a href="index.html" data-icon="home" class="ui-btn-active" data-transition="none">活在当下</a></li>
+						<li><a href="vBlueprintTimeline.html" data-icon="star" data-transition="flip">一周往事</a></li>
+						<li><a href="myfellows.html" data-icon="grid" data-transition="slide">看看朋友</a></li>
+						<li><a href="zhaolian.html" data-icon="search" data-transition="turn">找练哦</a></li>
+						<li><a href="happylife.html" data-icon="gear" data-transition="flip">难得糊涂</a></li>
+					</ul>
+				</div>
+			</div>
+			<div data-role="content" data-theme="a">
+
+			<div class="tiles">
+					<div class="tile double bg-purple">
+
+						<div class="tile-body">
+
+							
+
+							<h3>生命倒计时</h3>
+
+							<p id="remainingTime" style="font:caption;font-size: 240%">
+
+								正在计算剩余时间...
+
+							</p>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name">
+
+								珍惜现在就是延长了人生
+
+							</div>
+
+							<div class="number">
+
+								24 Jan 2013
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="tile bg-green">
+
+						<div class="tile-body" >
+							<p>智力投资</p>
+							
+							<div id="star_iq"></div>
+							
+						</div>
+						<div class="tile-object">
+
+							<div class="name" id="rating1Hint">
+
+								智力投资指数提示
+
+							</div>
+
+							
+
+						</div>
+					</div>
+
+					<div class="tile bg-blue">
+
+						<div class="tile-body">
+							<p>心情指数</p>
+						
+							<div id="star_emotion"></div>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name" id = "star_emotionHint">
+
+								心情指数提示
+
+							</div>
+
+							
+
+						</div>
+
+					</div>
+
+					
+
+
+
+
+					<div class="tile image selected">
+
+						<div class="tile-body">
+
+							<img src="metronic.bootstrap.media/image/image2.jpg" alt="">
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name">
+
+								Media
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="tile bg-green">
+
+						<div class="tile-body">
+
+							<p>体能增量</p>
+						<div id="star_sports"></div>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name" id = "star_sportsHints">
+
+								体能锻炼指数
+
+							</div>
+
+
+						</div>
+
+					</div>
+
+					<div class="tile double bg-grey">
+
+						<div class="tile-body">
+
+							
+							<h3>@lisa_wong</h3>
+							<div class="rating large" id="rating_1" data-static="false" data-score="3" data-stars="5" data-role="rating" data-show-score="true" data-score-hint="Rating: "></div> 
+							<p>
+
+								I really love this theme. I look forward to check the next release!
+
+							</p>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name">
+
+								<i class="icon-twitter"></i>
+
+							</div>
+
+							<div class="number">
+
+								10:45PM, 23 Jan
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="tile bg-blue">
+
+						<div class="tile-body">
+
+							<i class="icon-coffee"></i>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name">
+
+								Meetups
+
+							</div>
+
+							<div class="number">
+
+								12 Jan
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="tile bg-green">
+
+						<div class="tile-body">
+
+							<i class="icon-bar-chart"></i>
+
+						</div>
+
+						<div class="tile-object">
+
+							<div class="name">
+
+								Reports
+
+							</div>
+
+							<div class="number">
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
