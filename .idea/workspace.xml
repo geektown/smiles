@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0532088f-3f51-45fe-b24b-a25e8cb50be5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/index-generated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/smiles.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\assets\www\cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\assets\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\gen\cn\geektown\smilelife\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\gen\cn\geektown\smilelife\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\libs\android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\libs\cordova-2.9.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\layout\activity_smile_life_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values-v11\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values-v14\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values\attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\res\xml\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\src\cn\geektown\smilelife\SmileLifeMain.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\src\cn\geektown\smilelife\util\SystemUiHider.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\src\cn\geektown\smilelife\util\SystemUiHiderBase.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\david\git\smiles\src\cn\geektown\smilelife\util\SystemUiHiderHoneycomb.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\CalcTime.js" afterPath="$PROJECT_DIR$/platforms/ios/www/CalcTime.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\MyDateFormat.js" afterPath="$PROJECT_DIR$/platforms/ios/www/MyDateFormat.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\css\responsive.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/responsive.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\css\screen.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/screen.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\css\vtimeline-component.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/vtimeline-component.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\css\vtimeline-default.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/vtimeline-default.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\fontawesome.eot" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/fontawesome.eot" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\fontawesome.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/fontawesome.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\fontawesome.ttf" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/fontawesome.ttf" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\fontawesome.woff" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/fontawesome.woff" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\readme.md" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/readme.md" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\Read Me.txt" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/Read Me.txt" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\ecoico.dev.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/ecoico.dev.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\ecoico.eot" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/ecoico.eot" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\ecoico.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/ecoico.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\ecoico.ttf" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/ecoico.ttf" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\ecoico.woff" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/ecoico.woff" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\fonts\timelineicons\license.txt" afterPath="$PROJECT_DIR$/platforms/ios/www/fonts/timelineicons/license.txt" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\forms.html" afterPath="$PROJECT_DIR$/platforms/ios/www/forms.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\happylife.html" afterPath="$PROJECT_DIR$/platforms/ios/www/happylife.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\cancel-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/images/cancel-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\cancel-on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/images/cancel-on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\star-half.png" afterPath="$PROJECT_DIR$/platforms/ios/www/images/star-half.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\star-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/images/star-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\star-on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/images/star-on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\timeline_century_tick.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/images/timeline_century_tick.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\images\timeline_decade_tick.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/images/timeline_decade_tick.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\0.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/0.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\1.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/1.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\2.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/2.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\3.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/3.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\4.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/4.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\5.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/5.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-custom-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-custom-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-custom-on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-custom-on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-off-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-off-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-on-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-on-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\cancel-on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/cancel-on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-half-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-half-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-half-mono.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-half-mono.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-half.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-half.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-off-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-off-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-on-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-on-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\img\star-on.png" afterPath="$PROJECT_DIR$/platforms/ios/www/img/star-on.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\colorbox.css" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/colorbox.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\colorbox.js" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/colorbox.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\images\border.png" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/images/border.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\images\controls.png" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/images/controls.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\images\loading.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/images/loading.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\images\loading_background.png" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/images/loading_background.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\inc\images\overlay.png" afterPath="$PROJECT_DIR$/platforms/ios/www/inc/images/overlay.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jqm-version.txt" afterPath="$PROJECT_DIR$/platforms/ios/www/jqm-version.txt" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery-1.10.2.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery-1.8.2.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery.mobile-1.2.1.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery.mobile-1.2.1.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery.mobile-1.4.0.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery.mobile-1.4.0.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery.mobile-1.4.0.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery.mobile-1.4.0.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery.mobile.structure-1.2.1.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery.mobile.structure-1.2.1.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\jquery\jquery.mobile.theme-1.2.1.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/jquery/jquery.mobile.theme-1.2.1.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\jquery.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/jquery.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\jquery.raty.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/jquery.raty.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\jquery.raty.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/jquery.raty.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\modernizr.custom.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/modernizr.custom.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\timeliner.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/timeliner.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\js\timeliner.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/timeliner.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\DT_bootstrap.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/DT_bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\about-us.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/about-us.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\animate.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/animate.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\blog.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/blog.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\blue.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/blue.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-fileupload.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-fileupload.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-modal.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-modal.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-responsive.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-responsive1.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-responsive1.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-tag.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-tag.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-toggle-buttons.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-toggle-buttons.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-tree.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-tree.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap-wysihtml5.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap-wysihtml5.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\brown.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/brown.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\chosen.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/chosen.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\clockface.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/clockface.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\colorpicker.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/colorpicker.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\coming-soon.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/coming-soon.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\datepicker.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/datepicker.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\daterangepicker.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/daterangepicker.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\datetimepicker.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/datetimepicker.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\default.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/default.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\dropzone.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/dropzone.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\email.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/email.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\error.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/error.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\font-awesome.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\fullcalendar.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/fullcalendar.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\glyphicons.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/glyphicons.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\grey.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/grey.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\halflings.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/halflings.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\inbox.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/inbox.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\invoice.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/invoice.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery-ui-1.10.1.custom.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery-ui-1.10.1.custom.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.easy-pie-chart.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.easy-pie-chart.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.fancybox.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.fancybox.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.fileupload-ui.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.fileupload-ui.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.gritter.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.gritter.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.nestable.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.nestable.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.tagsinput.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.tagsinput.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jquery.ui.slider.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jquery.ui.slider.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\jqvmap.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/jqvmap.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\light.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/light.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\lock.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/lock.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\login-soft.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/login-soft.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\login.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/login.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\multi-select-metro.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/multi-select-metro.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\news.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/news.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\pricing-tables.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/pricing-tables.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\print.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/print.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\profile.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/profile.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\promo.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/promo.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\purple.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/purple.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\search.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/search.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\select2_metro.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/select2_metro.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\style-metro.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/style-metro.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\style-non-responsive.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/style-non-responsive.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\style-responsive.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/style-responsive.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\style.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/style.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\timeline.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/timeline.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\timepicker.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/timepicker.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\css\uniform.default.css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/css/uniform.default.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\10.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/10.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\11.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/11.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\2.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\3.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\4.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\5.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/5.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\6.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/6.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\7.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/7.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\8.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/8.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\9.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/9.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\KwPYo.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/KwPYo.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\alpha.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/alpha.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\amazon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/amazon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\animated-overlay.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/animated-overlay.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\avatar.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/avatar.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\avatar1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/avatar1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\avatar1_small.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/avatar1_small.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\avatar2.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/avatar2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\avatar3.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/avatar3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\behance.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/behance.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg-input-focus.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg-input-focus.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg-input.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg-input.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg-opacity.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg-opacity.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg-white-lock.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg-white-lock.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg\1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg/1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg\2.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg/2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg\3.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg/3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bg\4.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bg/4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\blank.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/blank.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\blogger.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/blogger.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\bstree-halflings.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/bstree-halflings.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\chosen-sprite.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/chosen-sprite.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\css" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\datatable-row-openclose.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/datatable-row-openclose.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\deviantart.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/deviantart.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\dribbble.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/dribbble.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\dropbox.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/dropbox.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\earth.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/earth.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\evernote.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/evernote.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\facebook.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/facebook.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fancybox_loading.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fancybox_loading.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fancybox_overlay.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fancybox_overlay.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fancybox_sprite.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fancybox_sprite.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\favicon.ico" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/favicon.ico" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\forrst.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/forrst.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\github.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/github.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-halflings-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-halflings.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-regular.eot" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-regular.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-regular.ttf" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-regular.woff" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons-white.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons-white.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons_halflings-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons_halflings-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons_halflings-white.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons_halflings-white.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons_halflings.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons_halflings.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphicons_halflings.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphicons_halflings.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphiconshalflings-regular.eot" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphiconshalflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphiconshalflings-regular.svg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphiconshalflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphiconshalflings-regular.ttf" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphiconshalflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\glyphiconshalflings-regular.woff" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/glyphiconshalflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\googleplus.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/googleplus.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\gritter-light.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/gritter-light.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\gritter.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/gritter.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\hor-menu-search-close-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/hor-menu-search-close-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\hor-menu-search-close.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/hor-menu-search-close.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\hor-menu-search.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/hor-menu-search.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\hue.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/hue.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\icon-color-close.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/icon-color-close.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\icon-color.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/icon-color.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\icon-img-down.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/icon-img-down.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\icon-img-up.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/icon-img-up.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ie-spacer.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ie-spacer.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\image1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/image1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\image2.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/image2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\image3.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/image3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\image4.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/image4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\image5.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/image5.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\img1.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/img1.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\img1_2.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/img1_2.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\img2.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/img2.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\img3.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/img3.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\img4.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/img4.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\inbox-nav-arrow-blue.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/inbox-nav-arrow-blue.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\instagram.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/instagram.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/iphone.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\item_img.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/item_img.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\item_img1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/item_img1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\jolicloud.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/jolicloud.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\last-fm.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/last-fm.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\linkedin.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/linkedin.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\loading.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/loading.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\logo-big.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/logo-big.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\logo.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/logo.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\logo_azteca.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/logo_azteca.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\logo_conquer.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/logo_conquer.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\logo_metronic.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/logo_metronic.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\menu-toggler.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/menu-toggler.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\overlay-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/overlay-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo1.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo2.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo3.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo4.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo5.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo5.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\photo6.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/photo6.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\picasa.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/picasa.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\pintrest.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/pintrest.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-collapse-icon-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-collapse-icon-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-collapse-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-collapse-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-config-icon-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-config-icon-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-config-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-config-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-expand-icon-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-expand-icon-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-expand-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-expand-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-reload-icon-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-reload-icon-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-reload-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-reload-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-remove-icon-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-remove-icon-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\portlet-remove-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/portlet-remove-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_02.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_02.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_03.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_03.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_04.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_04.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_05.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_05.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_06.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_06.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_07.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_07.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_08.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_08.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_09.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_09.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_10.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_10.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_11.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_11.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_12.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_12.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_13.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_13.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_14.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_14.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_15.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_15.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_16.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_16.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\preview_17.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/preview_17.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\profile-img.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/profile-img.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\profile.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/profile.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\progressbar.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/progressbar.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\remove-icon-small.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/remove-icon-small.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\rss.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/rss.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\saturation.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/saturation.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\search-icon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/search-icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\select2-spinner.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/select2-spinner.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\select2.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/select2.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\select2x2.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/select2x2.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sidebar-menu-arrow.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sidebar-menu-arrow.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sidebar-search-close.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sidebar-search-close.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sidebar-toggler.jpg" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sidebar-toggler.jpg" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\skype.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/skype.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\social_facebook.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/social_facebook.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\social_googleplus.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/social_googleplus.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\social_linkedin.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/social_linkedin.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\social_rss.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/social_rss.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\social_twitter.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/social_twitter.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sort_asc.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sort_asc.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sort_asc_disabled.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sort_asc_disabled.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sort_both.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sort_both.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sort_desc.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sort_desc.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sort_desc_disabled.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sort_desc_disabled.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\spotify.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/spotify.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\sprite.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/sprite.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\spritemap.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/spritemap.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\spritemap@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/spritemap@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\stumbleupon.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/stumbleupon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\switch.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/switch.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\syncfusion-icons-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/syncfusion-icons-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\syncfusion-icons.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/syncfusion-icons.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\tumblr.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/tumblr.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\twitter.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/twitter.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_flat_10_000000_40x100.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_flat_10_000000_40x100.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_glass_100_f6f6f6_1x400.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_glass_100_fdf5ce_1x400.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_228ef1_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_228ef1_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_888888_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_ef8c08_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_ef8c08_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_ffd27a_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_ffd27a_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\vimeo.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/vimeo.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\vk.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/vk.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\walmart.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/walmart.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\wordpress.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/wordpress.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\xing.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/xing.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\yahoo.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/yahoo.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\image\youtube.png" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/image/youtube.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\DT_bootstrap.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/DT_bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\additional-methods.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/additional-methods.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\app.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/app.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-colorpicker.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-colorpicker.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-datepicker.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-datetimepicker.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-datetimepicker.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-fileupload.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-fileupload.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-modal.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-modal.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-modalmanager.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-modalmanager.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-rtl.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-rtl.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-tag.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-tag.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-timepicker.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-timepicker.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-tree.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-tree.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap-wysihtml5.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap-wysihtml5.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\breakpoints.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/breakpoints.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\breakpoints.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/breakpoints.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\calendar.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/calendar.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\canvas-to-blob.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/canvas-to-blob.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\charts.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/charts.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\chosen.jquery.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/chosen.jquery.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ckeditor.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ckeditor.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\clockface.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/clockface.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\coming-soon.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/coming-soon.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\contact-us.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/contact-us.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\date.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/date.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\daterangepicker.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/daterangepicker.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\dropzone.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/dropzone.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\excanvas.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/excanvas.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\excanvas.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/excanvas.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\form-components.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/form-components.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\form-fileupload.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/form-fileupload.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\form-samples.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/form-samples.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\form-validation.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/form-validation.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\form-wizard.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/form-wizard.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\fullcalendar.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/fullcalendar.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\gallery.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/gallery.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\gmaps.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/gmaps.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\inbox.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/inbox.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\index.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/index.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery-1.10.1.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery-1.8.3.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery-ui-1.10.1.custom.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery-ui-1.10.1.custom.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.backstretch.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.blockui.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.blockui.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.bootpag.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.bootpag.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.bootstrap.wizard.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.bootstrap.wizard.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.cookie.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.cookie.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.countdown.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.countdown.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.dataTables.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.dataTables.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.dataTables.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.easy-pie-chart.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.easy-pie-chart.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.fancybox.pack.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.fileupload-fp.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.fileupload-fp.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.fileupload-ui.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.fileupload-ui.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.fileupload.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.fileupload.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.flot.crosshair.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.flot.crosshair.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.flot.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.flot.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.flot.pie.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.flot.pie.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.flot.resize.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.flot.resize.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.flot.stack.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.flot.stack.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.gritter.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.gritter.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.iframe-transport.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.iframe-transport.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.input-ip-address-control-1.0.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.input-ip-address-control-1.0.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.inputmask.bundle.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.inputmask.bundle.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.knob.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.knob.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.multi-select.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.multi-select.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.nestable.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.nestable.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.pulsate.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.pulsate.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.slimscroll.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.sparkline.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.sparkline.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.tagsinput.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.tagsinput.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.toggle.buttons.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.toggle.buttons.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.ui.widget.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.ui.widget.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.uniform.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.uniform.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.validate.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.validate.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.europe.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.europe.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.germany.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.germany.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.russia.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.russia.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.sampledata.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.sampledata.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.usa.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.usa.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.vmap.world.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.vmap.world.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\jquery.xdr-transport.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/jquery.xdr-transport.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\load-image.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/load-image.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\lock.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/lock.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\login-soft.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/login-soft.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\login.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/login.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\maps-google.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/maps-google.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\maps-vector.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/maps-vector.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\portlet-draggable.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/portlet-draggable.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\respond.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/respond.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\respond.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/respond.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\search.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/search.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\select2.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/select2.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\table-advanced.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/table-advanced.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\table-editable.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/table-editable.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\table-managed.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/table-managed.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\tmpl.min.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/tmpl.min.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-general.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-general.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-jqueryui.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-jqueryui.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-modals.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-modals.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-nestable.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-nestable.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-sliders.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-sliders.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\ui-tree.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/ui-tree.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\metronic.bootstrap.media\js\wysihtml5-0.3.0.js" afterPath="$PROJECT_DIR$/platforms/ios/www/metronic.bootstrap.media/js/wysihtml5-0.3.0.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\myRating.js" afterPath="$PROJECT_DIR$/platforms/ios/www/myRating.js" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\myfellows.html" afterPath="$PROJECT_DIR$/platforms/ios/www/myfellows.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\nav.html" afterPath="$PROJECT_DIR$/platforms/ios/www/nav.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\readme.md" afterPath="$PROJECT_DIR$/platforms/ios/www/readme.md" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\simpleTimeline.html" afterPath="$PROJECT_DIR$/platforms/ios/www/simpleTimeline.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\star-off.png" afterPath="$PROJECT_DIR$/platforms/ios/www/star-off.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\Bootstrap.css" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/Bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\Bootstrap.min.css" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/Bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\Thumbs.db" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/Thumbs.db" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\ajax-loader.gif" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/ajax-loader.gif" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\ajax-loader.png" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/ajax-loader.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\icons-18-black.png" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/icons-18-black.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\icons-18-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/icons-18-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\icons-36-black.png" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/icons-36-black.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\themes\images\icons-36-white.png" afterPath="$PROJECT_DIR$/platforms/ios/www/themes/images/icons-36-white.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\vBlueprintTimeline.html" afterPath="$PROJECT_DIR$/platforms/ios/www/vBlueprintTimeline.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\assets\www\zhaolian.html" afterPath="$PROJECT_DIR$/platforms/ios/www/zhaolian.html" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld.xcodeproj\project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife.xcodeproj/project.pbxproj" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\.gitignore" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/.gitignore" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Classes\AppDelegate.h" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Classes/AppDelegate.h" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Classes\AppDelegate.m" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Classes/AppDelegate.m" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Classes\MainViewController.h" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Classes/MainViewController.h" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Classes\MainViewController.m" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Classes/MainViewController.m" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Classes\MainViewController.xib" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Classes/MainViewController.xib" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\HelloWorld-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/SmileLife-Info.plist" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\HelloWorld-Prefix.pch" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/SmileLife-Prefix.pch" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Plugins\README" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Plugins/README" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-40.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-40.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-40@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-40@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-50.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-50.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-50@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-50@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-60.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-60.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-60@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-60@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-60@3x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-60@3x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-72.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-72.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-72@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-72@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-76.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-76.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-76@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-76@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-small.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-small.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon-small@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon-small@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\icons\icon@2x.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/icons/icon@2x.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-568h@2x~iphone.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-667h.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-667h.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-736h.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-736h.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-Landscape-736h.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-Landscape-736h.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-Landscape@2x~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-Landscape@2x~ipad.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-Landscape~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-Landscape~ipad.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-Portrait@2x~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-Portrait@2x~ipad.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default-Portrait~ipad.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default-Portrait~ipad.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default@2x~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default@2x~iphone.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\Resources\splash\Default~iphone.png" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/Resources/splash/Default~iphone.png" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\config.xml" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/config.xml" />
+      <change type="MOVED" beforePath="C:\Users\david\git\smiles\platforms\ios\HelloWorld\main.m" afterPath="$PROJECT_DIR$/platforms/ios/SmileLife/main.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+    </list>
+    <ignored path="smiles.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="smiles" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.54285717">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0532088f-3f51-45fe-b24b-a25e8cb50be5" name="Default" comment="" />
+      <created>1438494986850</created>
+      <option name="number" value="Default" />
+      <updated>1438494986850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18467475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.138322">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54285717">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
